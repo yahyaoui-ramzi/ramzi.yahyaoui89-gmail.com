@@ -1,0 +1,10 @@
+.barSupérieur {
+  background-color: red;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.button {
+    margin-top: 15%;
+    margin-left: 40%
+}
